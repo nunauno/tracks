@@ -1,0 +1,19 @@
+============NAT PORT============
+
+#SERVER 10.26.0.199
+#SERVER 10.200.20.2 (UAT)
+#SERVER localhost:8383 (FRONT)
+
+=============SSH================
+ssh khanh.phamngoc2@10.26.0.199
+ssh khanh.phamngoc2@10.200.20.2
+
+=============BIZ================
+CHI HO: BANK -> VND (CREDIT)
+THU HO: VND -> BANK (DEBIT)
+
+
+
+
+
+
